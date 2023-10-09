@@ -1,0 +1,2 @@
+# rust_study_timer
+rustの勉強としてタイマーを作成するリポジトリです
